@@ -1,4 +1,7 @@
 # How to use jQuery to drag and drop cards from one ASPxCardView to another
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/138994998/)**
+<!-- run online end -->
 
 <p>The example demonstrates how to use the jQuery framework to drag a card from one ASPxCardView to another.</p>
 <p>- Use jQuery UI <a href="http://jqueryui.com/draggable/">Draggable</a> and <a href="http://jqueryui.com/droppable/">Droppable</a> plug-ins;<br />- Define "draggable" and "droppable" items:</p>
